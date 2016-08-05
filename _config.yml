@@ -1,0 +1,14 @@
+layout_spectrum: 0.8521368810907006
+typography_spectrum: 0.04023546492680907
+color:
+  brandStrength: 0.44012813712470233
+  lightness: 0.45601084153167903
+  saturation: 0.9617478202562779
+  rhythmicContrast: 0.40971831418573856
+  brandColors:
+    - '#6C6E58'
+    - '#3E423A'
+    - '#417378'
+    - '#A4CFBE'
+    - '#F4F7D9'
+name: Robot Koala
